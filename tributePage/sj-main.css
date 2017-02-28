@@ -1,0 +1,23 @@
+.header{
+  overflow:hidden;
+}
+.content-block{
+  margin-top:2em;
+  background-color:#ccc;
+}
+.design-list{
+  text-align:center;
+}
+.design-description{
+	margin:2em;
+}
+.block-title{
+	margin:2em;
+}
+.quote-block{
+	padding:0 2em 2em 2em;
+}
+.footer{
+	padding:2em;
+	background-color: #fff;
+}
